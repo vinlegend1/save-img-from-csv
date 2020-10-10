@@ -34,3 +34,9 @@ newInstance.run('women-clothings')
 `run(directory, startIndex=0)` => does the saving for you
 - directory: where the directory should be
 - startIndex: where to start saving
+
+## Dependencies
+- urllib
+- csv
+- os (if I get the time to update this repo)
+- ssl
